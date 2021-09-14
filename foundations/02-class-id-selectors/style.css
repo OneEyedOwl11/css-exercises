@@ -1,0 +1,19 @@
+.p-class {
+    background-color: rgb(219, 130, 130);
+    font-family: Verdana, sans-serif;
+}
+
+.odd-two {
+    font-size: 24px;
+}
+
+#divOne {
+    color: blue;
+    font-size: 36px;
+}
+
+#divTwo {
+    background-color: rgb(132, 218, 121);
+    font-size: 24px;
+    font-weight: 700;
+}
